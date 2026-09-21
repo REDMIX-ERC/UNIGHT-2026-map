@@ -1,6 +1,6 @@
 # 1927. Seif El Islam Mohamed visits Turin
 
-This repository contains the digital map reconstructing the journey of the Yemeni delegation’s visit to Turin in 1927. 
+This repository contains the digital map reconstructing the journey of the Yemeni delegation’s visit to **Turin in 1927**. 
 The ERC REDMIX project team will guide the public on a journey of discovery through the city, seen through the eyes of Prince Seif El Islam Mohamed and his entourage. 
 
 ## 🌍 View the map
