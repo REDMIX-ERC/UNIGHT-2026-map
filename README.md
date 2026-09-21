@@ -6,7 +6,7 @@ The ERC REDMIX project team will guide the public on a journey of discovery thro
 ## 🌍 View the map
 
 You can explore the interactive map at the following link:  
-👉 https://redmix-erc.github.io/UmbertoAleggianiMap/
+👉 https://redmix-erc.github.io/UNIGHT-2026-map/
 
 ## 🗺️ Author
 
