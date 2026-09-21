@@ -10,8 +10,8 @@ You can explore the interactive map at the following link:
 
 ## 🗺️ Author
 
-**Tiziana Pasciuto** – Conception, design, and creation of the map.
-**Francesco Dragone** – Content research and material selection.
+**Tiziana Pasciuto** – Conception, design, and creation of the map.  
+**Francesco Dragone** – Content research and material selection.  
 **Martina Tremolada** – Content research and material selection.
 
 ## 📄 License
