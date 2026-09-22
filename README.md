@@ -12,6 +12,7 @@ You can explore the interactive map at the following link:
 
 **Tiziana Pasciuto** – Conception, design, and creation of the map.  
 **Francesco Dragone** – Content research and material selection.  
+**Adnen el Ghali** - Content research and material selection.  
 **Martina Tremolada** – Content research and material selection.
 
 ## 📄 License
